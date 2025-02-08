@@ -1,0 +1,7 @@
+gName = input("Given name:")
+fName = input("Family name:")
+sAdd = input("Street address:")
+candp = input("City and postal code:")
+print(gName + " " + fName)
+print(sAdd)
+print(candp)
